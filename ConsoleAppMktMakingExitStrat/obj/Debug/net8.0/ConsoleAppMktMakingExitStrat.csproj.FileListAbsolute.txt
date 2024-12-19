@@ -1,0 +1,5 @@
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppMktMakingExitStrat\obj\Debug\net8.0\ConsoleAppMktMakingExitStrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppMktMakingExitStrat\obj\Debug\net8.0\ConsoleAppMktMakingExitStrat.AssemblyInfoInputs.cache
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppMktMakingExitStrat\obj\Debug\net8.0\ConsoleAppMktMakingExitStrat.AssemblyInfo.cs
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppMktMakingExitStrat\obj\Debug\net8.0\ConsoleAppMktMakingExitStrat.csproj.CoreCompileInputs.cache
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppMktMakingExitStrat\obj\Debug\net8.0\ConsoleAppMktMakingExitStrat.sourcelink.json
