@@ -1,0 +1,15 @@
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\ConsoleAppBlackScholesModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\ConsoleAppBlackScholesModel.AssemblyInfoInputs.cache
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\ConsoleAppBlackScholesModel.AssemblyInfo.cs
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\ConsoleAppBlackScholesModel.csproj.CoreCompileInputs.cache
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\ConsoleAppBlackScholesModel.sourcelink.json
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\bin\Debug\net8.0\ConsoleAppBlackScholesModel.exe
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\bin\Debug\net8.0\ConsoleAppBlackScholesModel.deps.json
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\bin\Debug\net8.0\ConsoleAppBlackScholesModel.runtimeconfig.json
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\bin\Debug\net8.0\ConsoleAppBlackScholesModel.dll
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\bin\Debug\net8.0\ConsoleAppBlackScholesModel.pdb
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\ConsoleAppBlackScholesModel.dll
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\refint\ConsoleAppBlackScholesModel.dll
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\ConsoleAppBlackScholesModel.pdb
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\ConsoleAppBlackScholesModel.genruntimeconfig.cache
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppBlackScholesModel\obj\Debug\net8.0\ref\ConsoleAppBlackScholesModel.dll
