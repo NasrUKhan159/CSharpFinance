@@ -1,0 +1,15 @@
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\bin\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.exe
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\bin\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.deps.json
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\bin\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.runtimeconfig.json
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\bin\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.dll
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\bin\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.pdb
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.AssemblyInfoInputs.cache
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.AssemblyInfo.cs
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.csproj.CoreCompileInputs.cache
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.sourcelink.json
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.dll
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\refint\ConsoleAppYieldCurveConstructionSwaps.dll
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.pdb
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\ConsoleAppYieldCurveConstructionSwaps.genruntimeconfig.cache
+C:\Users\Nasr U Khan\PycharmProjects\CSharpFinance\ConsoleAppYieldCurveConstructionSwaps\obj\Debug\net8.0\ref\ConsoleAppYieldCurveConstructionSwaps.dll
