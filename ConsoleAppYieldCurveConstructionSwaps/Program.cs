@@ -112,19 +112,31 @@ static double _YFrac_(DateTime date1, DateTime date2, string daycountconvention)
     }
 }
 
-static double[,] __GetSwapCurveData__(Dictionary<string, List<object>> curveparams)
+static DateTime __GetSwapCurveData__(string busdayconv, string calendar, DateTime curvedate, int settledays)
 {
-    throw new NotImplementedException();
-
+    while (_IsWeekend_(curvedate) || _IsHoliday_(curvedate, "NY"))
+    {
+        curvedate.AddDays(1);
+    }
+    DateTime curvesettledate = _AddBusinessDays_(curvedate, settledays, calendar);
+    return curvesettledate;
 }
 
-static double[,] _DatesForTenors_()
+static double[,] _DatesForTenors_(List<string> tenors, string busdayconv, string calendar, DateTime curvedate, int settledays)
 {
-    throw new NotImplementedException();
+    List<DateTime> date_list = new List<DateTime>{ };
+    foreach(string tenor in tenors)
+    {
+        int num = int.Parse(tenor.Substring(0, 1));
+        DateTime settledate = __GetSwapCurveData__(busdayconv, calendar, curvedate, settledays);
+        DateTime date = _AddBusinessYears_(settledate, num, calendar);
+        date_list.Add(date);
+    }
 }
 
 static double[,] _YearFractionsForTenors_()
 {
+    // continue from here
     throw new NotImplementedException();
 }
 
@@ -137,3 +149,15 @@ static double[,] _ZeroRates()
 {
     throw new NotImplementedException();
 }
+
+// define the necessary variables
+DateTime curvedate = new DateTime(2024, 8, 26);
+int settledays = 2;
+string calendar = "London";
+string busdayconv = "Following";
+string daycount_conv = "ACT360";
+List<string> tenors = new List<string> { "1Y", "2Y", "3Y", "5Y", "7Y", "10Y", "12Y", "15Y", "20Y", "25Y" };
+List<double> swaprate = new List<double> { 0.042, 0.043, 0.047, 0.054, 0.057, 0.06, 0.061, 0.059, 0.056, 0.0555 };
+List<string> type = Enumerable.Repeat("Swap", 10).ToList();
+List<string> frequency = Enumerable.Repeat("S", 10).ToList();
+List<string> daycount = Enumerable.Repeat("ACT360", 10).ToList();
