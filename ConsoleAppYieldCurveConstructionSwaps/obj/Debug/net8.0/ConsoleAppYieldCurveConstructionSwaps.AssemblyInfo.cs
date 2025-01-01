@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppYieldCurveConstructionSwaps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+445bbf914b61df46af1d73679c013af9faa0809f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d329a33ddcd3c6e6ce7209a3ef43a388d298afb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppYieldCurveConstructionSwaps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppYieldCurveConstructionSwaps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
